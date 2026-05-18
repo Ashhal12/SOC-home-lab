@@ -130,4 +130,4 @@ sudo tail -f /var/log/suricata/fast.log
 ## Project By
 
 **Ashhal Yasir** — Air University, BS-CYS-F-24-A  
-Group members: Saim Chaudhry, Eman Shabir
+Group members: Muhammad Saim Chaudhry, Eman Shabir
